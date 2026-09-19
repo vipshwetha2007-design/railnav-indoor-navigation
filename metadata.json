@@ -1,0 +1,6 @@
+{
+  "name": "RailNav AI — Railway Station Indoor Navigation System",
+  "description": "Interactive indoor railway station navigation featuring graph-based A* routing, step-by-step guidance, accessibility modes, crowd-aware rerouting, and AR preview.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
